@@ -1,0 +1,10 @@
+##API planning
+-Auth
+-Foods
+-Restaurants
+-Menu
+-Order
+-Payments -> razorpay
+-Reviews
+-Users
+-Images

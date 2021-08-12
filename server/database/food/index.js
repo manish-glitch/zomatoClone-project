@@ -24,5 +24,8 @@ const FoodSchema = new mongoose.Schema({
         type: mongoose.Types.ObjectId,
         ref:"Reviews",
     },
+},
+{
+    timestamps:true,
 });
 export const FoodModel = mongoose.model("Foods", FoodSchema);
